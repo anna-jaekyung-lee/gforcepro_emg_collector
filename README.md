@@ -142,10 +142,9 @@ python collect_emg_en.py
 ## Files
 
 ```
-collect_emg_en.py    — Main application (English UI)
-collect_emg.py       — Main application (Korean UI, same features)
-gforce.py            — gForcePRO BLE SDK wrapper (bug-fixed from original)
-bin_to_csv.py        — Offline converter: .bin files from official app → .csv
+collect_emg.py    — Main application (GUI)
+gforce.py         — gForcePRO BLE SDK wrapper (bug-fixed from original)
+bin_to_csv.py     — Offline converter: .bin files from official app → .csv
 ```
 
 ### Offline Bin Converter
