@@ -120,7 +120,7 @@ timestamp_s,CH1,CH2,CH3,CH4,CH5,CH6,CH7,CH8,quat_w,quat_x,quat_y,quat_z
 pip install bleak scipy numpy pillow
 ```
 
-Python 3.8+. Tested on Windows 11.
+Python 3.8+. Tested on Windows 11 and macOS. Note: on macOS, observed sample rate may be slightly lower (~900 Hz) due to differences in the BLE stack compared to Windows.
 
 ---
 
